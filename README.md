@@ -1,3 +1,1 @@
-# Aula - 01 
-# Conversor de Moedas e Variáveis no JavaScript
- Desafio para converter valores em Dólar para Real
+Curso de Imersão Dev realizado pela Alura em 2021
