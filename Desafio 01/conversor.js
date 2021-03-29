@@ -1,8 +1,8 @@
-var valorEmDolarTexto = prompt("Qual o valor em dolar que você quer converter?")
+var valorEmDolar = prompt("Qual o valor em dolar que você deseja converter?")
 
-var valorEmDolarNumero = parseFloat(valorEmDolarTexto)
+var valorEmDolarNum = parseFloat(valorEmDolarTexto)
 
-var valorEmReal = valorEmDolarNumero * 5.76
-var valorEmRealFixado = valorEmReal.toFixed(2)
+var valorEmReal = valorEmDolarNum * 5.76
+var valorEmRealConvertido = valorEmReal.toFixed(2)
 
 alert(valorEmRealFixado)
